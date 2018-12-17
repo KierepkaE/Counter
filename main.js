@@ -4,7 +4,7 @@ function timer() {
 
     const addNumber = function() {
         number++;
-        document.body.textContent = `Time you spent on out page ${number} seconds.`
+        document.body.textContent = `Time you spent on our page ${number} seconds.`
         console.log('druga funkcja')
 
     }
